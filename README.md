@@ -68,4 +68,3 @@ Some files are intentionally left unchanged to preserve their original beginner-
 ## Author
 
 Darian Ganev
-Student developer from Bulgaria
