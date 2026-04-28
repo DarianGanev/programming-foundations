@@ -14,20 +14,19 @@ It reflects my progress in problem-solving, algorithmic thinking, and understand
 ## Repository Structure
 
 ```text
-Programming/
-├── C/
-│   ├── Basics
-│   ├── Loops
-│   ├── Arrays
-│   ├── Functions
-│   └── Console Tasks
+programming_foundations/
+├── C_Language/
+│   ├── Complex_Data_Types_and_Data_Structures
+│   ├── Pointers_and_Dynamic_Memory
+│   ├── Section_2
+│   └── Work_with_Files
 │
 ├── Python/
-│   ├── Basics
-│   ├── Conditions
-│   ├── Loops
-│   ├── Functions
-│   └── Mini Projects
+│   ├── 9A_class
+│   ├── Abilities
+│   ├── Flask_Web_App
+│   ├── Linked_List
+│   └── Turtle
 ```
 
 ---
